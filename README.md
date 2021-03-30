@@ -1,2 +1,5 @@
 # hello-world
-get to know git hub
+
+Hi there!
+My name is Hadas Aizik. I am 26 y.o and im from Kiryat Ata
+I love mcdonalds and sleeping a lot.
